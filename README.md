@@ -1,12 +1,38 @@
-# Luna-Riding-the-Cycle-Waves
+# 🌙Luna: Your Personal Period Tracker🌙
 
-#### I. Project Overview
-Luna is a Java-based console application for period tracking, allowing users to monitor their moods, symptoms, and menstrual cycle. By tracking these factors, Luna helps users understand their body’s responses to menstruation. Key features include next period prediction and the chance of getting pregnant on a chosen date, supporting health management, pregnancy planning, and prevention. The project’s goal is to empower individuals to take control of their menstrual health, contributing to a healthier society.
+## I. Project Overview: *Embrace Your Cycle, Empower Your Health*
+**Luna** is a period tracking application designed to help users track their menstrual cycles, predict upcoming periods, and estimate their chances of pregnancy based on their cycle data. The app allows users to log period details, including mood, symptoms, and digestion, as well as calculate and predict their next menstrual cycle. It is built using **Java** and follows **Object-Oriented Programming (OOP)** principles to structure the application.
 
-#### II. Application of OOP Principles (To be completed as the project progresses)
+### Key Features:
+* **Cycle Tracking**: Record your period dates, mood, symptoms, and digestion.
+* **Predict Your Period**: Get accurate predictions for the next 5 months based on your cycle length.
+* **Pregnancy Chances**: Estimate your chances of pregnancy based on your fertility window.
+* **Health Insights**: Track changes in mood, energy, and digestion with thoughtful feedback.
 
-#### III. Integration of  the Sustainable Development Goal (SDG)
-Luna: Riding the Cycle Waves aligns with **SDG 3: Good Health and Well-being by promoting physical and emotional health**. According to the World Health Organization, a woman dies every two minutes from preventable causes related to pregnancy and childbirth. This project aims to support SDG 3 by helping users manage their menstrual health, potentially reducing risks associated with unplanned pregnancies.
+## II. How Luna Embraces OOP Principles 🌟
+### 1. **ENCAPSULATION**:
+* **User**: The **User class** is the heart of Luna, storing your username and cycle length, and making sure your data stays safe with getters and setters. Think of it as a digital diary that keeps track of your data, just for you!
+* **PeriodEntry Class**: Period data (date, mood, symptoms, digestion) are encapsulated in the PeriodEntry class. This keeps the period details organized and easily accessible.
 
-#### IV. Instructions for running the program (To be completed as the project progresses)
+### 2. **ABSTRACTION**:
+* **Abstract class Tracker**: defines the common interface and structure for the period tracking system. Specific actions such as logging entries and predicting periods are abstracted into methods like **logEntry()** and **predictNextPeriod()**, which are implemented in the PeriodTracker class.
+
+### 3. INHERITANCE:
+* **Period Tracker Class**: The PeriodTracker class **inherits from the abstract Tracker class**. This allows it to reuse the functionality of the parent class while implementing specific details like the prediction of future periods and pregnancy chances.
+
+### 4. POLYMORPHISM
+* The use of polymorphism is visible in the method **pregnancyChance()**, which adapts to different inputs (like a chosen date) and provides different outcomes based on the user’s data. Similarly, the **logEntry()** method can handle varying types of entries depending on the input.
+
+## III. Integration of  the Sustainable Development Goal (SDG): Good Health & Well-Being 🌏
+**Luna** is built with **Sustainable Development Goal 3** in mind—promoting **Good Health and Well-Being** for all. Here’s how Luna supports your health:
+* **Physical Health**: Track your menstrual cycle and get predictions to help you manage your health better.
+* **Mental Health**: By tracking your mood, symptoms, and digestion, Luna helps you understand the connection between your cycle and your mental well-being.
+* **Reproductive Health**: Luna estimates your chances of pregnancy, helping you understand your fertility window and empowering you to make informed choices.
+
+By helping users manage and understand their cycles, Luna plays a small but meaningful role in supporting women’s health globally.
+
+## IV. Instructions for running the program
+Ready to start tracking your cycle with Luna? Here’s how you can get the app up and running on your machine:
+
+
 
