@@ -9,3 +9,4 @@ Luna is a Java-based console application for period tracking, allowing users to 
 Luna: Riding the Cycle Waves aligns with **SDG 3: Good Health and Well-being by promoting physical and emotional health**. According to the World Health Organization, a woman dies every two minutes from preventable causes related to pregnancy and childbirth. This project aims to support SDG 3 by helping users manage their menstrual health, potentially reducing risks associated with unplanned pregnancies.
 
 #### IV. Instructions for running the program (To be completed as the project progresses)
+-[] lab 1
