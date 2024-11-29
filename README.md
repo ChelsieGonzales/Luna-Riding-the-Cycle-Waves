@@ -34,5 +34,28 @@ By helping users manage and understand their cycles, Luna plays a small but mean
 ## IV. Instructions for running the program 💻
 Ready to start tracking your cycle with Luna? Here’s how you can get the app up and running on your computer:
 
+### 🛠️ Installation
+1. Clone the Repository
+2. Navigate the project Directory
+3. Compile the Java Files
+4. Run the Program
+
+### 📖 User Manual
+**1. Getting Started**: When you run Luna for the first time, it will prompt you to provide your name. This name will personalize your experience.
+**2. Main Menu Options**: After starting the program, you'll see the following menu:
+**Option 1**: **Log a New Period Entry*
+- You’ll be prompted to enter your cycle length or calculate it based on dates.
+- Record additional details such as your mood, symptoms, and digestion.
+**Option 2**: **Predict Next Period*
+- Luna predicts your next periods for up to 5 months based on your logged data.
+- If no data is available, Luna will ask you to log your cycle length first.
+**Option 3**: **Check Pregnancy Chances*
+- Enter a specific date to check your likelihood of pregnancy based on your cycle and fertile window.
+**Option 4**: **View Cycle Insights*
+- Displays your logged period entries, including cycle length, moods, symptoms, and digestion data
+**Option 5**: **Exit Luna*
+- Ends the session
+
+**Luna** is your health assistant, right at your fingertips!
 
 
