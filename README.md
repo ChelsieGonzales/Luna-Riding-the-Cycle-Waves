@@ -58,7 +58,7 @@ Ready to start tracking your cycle with Luna? Here’s how you can get the app u
 **Option 4**: *View Cycle Insights*
 - Displays your logged period entries, including cycle length, moods, symptoms, and digestion data
 
-**Option 5**: **Exit Luna*
+**Option 5**: *Exit Luna*
 - Ends the session
 
 **Luna** is your health assistant, right at your fingertips!
