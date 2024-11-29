@@ -32,7 +32,7 @@
 By helping users manage and understand their cycles, Luna plays a small but meaningful role in supporting women’s health globally.
 
 ## IV. Instructions for running the program 💻
-Ready to start tracking your cycle with Luna? Here’s how you can get the app up and running on your machine:
+Ready to start tracking your cycle with Luna? Here’s how you can get the app up and running on your computer:
 
 
 
