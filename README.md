@@ -32,13 +32,7 @@
 By helping users manage and understand their cycles, Luna plays a small but meaningful role in supporting women’s health globally.
 
 ## IV. Instructions for running the program 💻
-Ready to start tracking your cycle with Luna? Here’s how you can get the app up and running on your computer:
-
-### 🛠️ Installation
-1. Clone the Repository
-2. Navigate the project Directory
-3. Compile the Java Files
-4. Run the Program
+Ready to start tracking your cycle with Luna? 
 
 ### 📖 User Manual
 **1. Getting Started**: When you run Luna for the first time, it will prompt you to provide your name. This name will personalize your experience.
